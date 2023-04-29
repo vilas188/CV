@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="css/styles.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🚁Vilas.s</title>
+</head>
+<body>
+    <table cellspacing="10">
+        <tr>
+            <td> <img src="vilas-modified.png " alt="Vilas's image"></td>
+            <td> <h1>Vilas</h1>
+                <p>i'm a student from <strong><em>canara engineering college</em></strong> mangalore</p></td>
+        </tr>
+    </table>
+   
+   
+    <hr>
+    <h3><strong><u>Education and Qualification </u></strong></h3>
+    <ol>
+        <li>School:- </li>
+        <ul>
+            <li><a href="https://www.google.com/maps/place/Kuvempu+Higher+Primary+School/@13.5514114,74.698593,17z/data=!3m1!4b1!4m5!3m4!1s0x3bbc91429b332843:0x284f59dff1b6e7ff!8m2!3d13.5514164!4d74.7008295?hl=en-GB">kuvempu school tekkatte</a></li>
+        </ul>
+        <li>Puc:-</li>
+        <ul>
+            <li><a href="https://www.google.com/maps/search/viveka+PU+COLLEGE+KOTA/@13.5074185,74.704051,17z/data=!3m1!4b1">viveka pu college kota</a></li>
+        </ul>
+        <li>Engineering:-</li>
+        <ul>
+            <li><a href="https://www.canaraengineering.in/"> Canara Engineering College</a></li>
+        </ul>
+    </ol>
+   <h3><u> Skills:-</u></h3>
+   <table   cellspacing="1">
+    <tr>
+        <td><table>
+            <tr>
+               <td>C Programming </td>
+               <td>🔥🔥🔥🔥</td>
+            </tr>
+            <tr>
+                <td>CSS</td>
+                <td>🔥🔥</td>
+            </tr>
+             </table></td>
+        <td><table>
+            <tr>
+               <td>Java Programming </td>
+               <td>🔥🔥</td>
+            </tr>
+            <tr>
+                <td>HTML</td>
+                <td>🔥🔥🔥🔥</td>
+            </tr>
+             </table></td>
+    </tr>
+</table>
+
+    
+    <h3><u> Ed.years:-</u></h3>         
+    <table border="1">
+        <thead>
+            <tr>  
+                <th>School</th>
+                <th>Year</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+            <td>kuvempu</td>
+            <td>2006</td>
+            </tr>
+            <tr>
+            <td>Viveka kota</td>
+            <td>2017</td>
+            </tr>
+            <tr>
+            <td>Canara engineering college</td>
+            <td>2019</td>    
+            </tr>
+        </tbody>
+        
+    </table>
+    <hr>
+    <h3>My Hobbies:-</h3>
+    <ul>
+        <li>watching documentary</li>
+        <li>playing outdoor games</li>
+        <li>watching tech related videos</li>
+        <li>browsing through latest tech trends</li>
+    </ul>
+    <h3> <a href="contact.html">☎Contact Me</a></h3>
+</body>
+</html>

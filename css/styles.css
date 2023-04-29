@@ -1,0 +1,46 @@
+body{
+    background: linear-gradient(to bottom,#99FFCC 0%, #FFFFFF 100%);
+}
+hr{
+    border-style:dotted none none;
+    height: 0px;
+    width: 6%;
+    border-color:gray;
+    border-width: 5px;
+}
+img {
+    height: 180px;
+}
+h1{
+    font-family: cursive;
+    color:#66bfbf;
+}
+
+h3{
+    font-family: serif;
+    color:#66bfbf;
+}
+
+.myn:hover{
+    color:black;
+
+}
+.ul:hover {
+    color:gold;
+}
+.tab:hover{
+    background-color: #99FFCC;
+}
+
+.sk1:hover{
+    color:gold;
+}
+.ed1:hover{
+    color:gold;
+}
+.ed2:hover{
+    background-color:#99FFCC;
+}
+#hob1:hover{
+    color:gold;
+}
